@@ -12,3 +12,7 @@ Technologies used: HTML, PHP, Javascript, MySQL database.
 4. In url bar type : http://localhost/OneIndiaProject/index.php
 5. Begin the process of booking by registering yourself.
 6. Refer to the file named airline.sql to make changes in the database.
+
+# For any query contact :
+   email id : pranjal_deepak@srmuniv.edu.in
+   
